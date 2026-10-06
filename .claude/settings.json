@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node -v)",
+      "PowerShell(npm -v)",
+      "PowerShell(npx -y shadcn@latest add button card badge input avatar separator select dropdown-menu tooltip scroll-area -y)",
+      "PowerShell(npm run build)"
+    ]
+  }
+}
